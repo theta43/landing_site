@@ -1,0 +1,4 @@
+name: "Theta's Blog"
+desc: "Blog"
+markdown: redcarpet
+pygments: true
